@@ -1,27 +1,27 @@
 {
   "files": {
-    "main.css": "/static/css/main.b636c86f.chunk.css",
-    "main.js": "/static/js/main.0f244a73.chunk.js",
-    "main.js.map": "/static/js/main.0f244a73.chunk.js.map",
-    "runtime-main.js": "/static/js/runtime-main.195440fe.js",
-    "runtime-main.js.map": "/static/js/runtime-main.195440fe.js.map",
-    "static/css/2.1b27c19f.chunk.css": "/static/css/2.1b27c19f.chunk.css",
-    "static/js/2.4247813a.chunk.js": "/static/js/2.4247813a.chunk.js",
-    "static/js/2.4247813a.chunk.js.map": "/static/js/2.4247813a.chunk.js.map",
-    "index.html": "/index.html",
-    "static/css/2.1b27c19f.chunk.css.map": "/static/css/2.1b27c19f.chunk.css.map",
-    "static/css/main.b636c86f.chunk.css.map": "/static/css/main.b636c86f.chunk.css.map",
-    "static/js/2.4247813a.chunk.js.LICENSE.txt": "/static/js/2.4247813a.chunk.js.LICENSE.txt",
-    "static/media/bsw-logo-navbar-removebg-preview.png": "/static/media/bsw-logo-navbar-removebg-preview.62341da3.png",
-    "static/media/bsw-logo-small_-removebg-preview.png": "/static/media/bsw-logo-small_-removebg-preview.88c66ecc.png",
-    "static/media/all.min.css": "/static/media/fa-solid-900.efbd5d20.eot",
-    "static/media/nucleo.css": "/static/media/nucleo-icons.d6a66724.ttf"
+    "main.css": "/dashboard/static/css/main.d288de03.chunk.css",
+    "main.js": "/dashboard/static/js/main.7f5fbb9e.chunk.js",
+    "main.js.map": "/dashboard/static/js/main.7f5fbb9e.chunk.js.map",
+    "runtime-main.js": "/dashboard/static/js/runtime-main.d03b7aa7.js",
+    "runtime-main.js.map": "/dashboard/static/js/runtime-main.d03b7aa7.js.map",
+    "static/css/2.a680b4a0.chunk.css": "/dashboard/static/css/2.a680b4a0.chunk.css",
+    "static/js/2.fbaf6961.chunk.js": "/dashboard/static/js/2.fbaf6961.chunk.js",
+    "static/js/2.fbaf6961.chunk.js.map": "/dashboard/static/js/2.fbaf6961.chunk.js.map",
+    "index.html": "/dashboard/index.html",
+    "static/css/2.a680b4a0.chunk.css.map": "/dashboard/static/css/2.a680b4a0.chunk.css.map",
+    "static/css/main.d288de03.chunk.css.map": "/dashboard/static/css/main.d288de03.chunk.css.map",
+    "static/js/2.fbaf6961.chunk.js.LICENSE.txt": "/dashboard/static/js/2.fbaf6961.chunk.js.LICENSE.txt",
+    "static/media/bsw-logo-navbar-removebg-preview.png": "/dashboard/static/media/bsw-logo-navbar-removebg-preview.62341da3.png",
+    "static/media/bsw-logo-small_-removebg-preview.png": "/dashboard/static/media/bsw-logo-small_-removebg-preview.88c66ecc.png",
+    "static/media/all.min.css": "/dashboard/static/media/fa-solid-900.efbd5d20.eot",
+    "static/media/nucleo.css": "/dashboard/static/media/nucleo-icons.d6a66724.ttf"
   },
   "entrypoints": [
-    "static/js/runtime-main.195440fe.js",
-    "static/css/2.1b27c19f.chunk.css",
-    "static/js/2.4247813a.chunk.js",
-    "static/css/main.b636c86f.chunk.css",
-    "static/js/main.0f244a73.chunk.js"
+    "static/js/runtime-main.d03b7aa7.js",
+    "static/css/2.a680b4a0.chunk.css",
+    "static/js/2.fbaf6961.chunk.js",
+    "static/css/main.d288de03.chunk.css",
+    "static/js/main.7f5fbb9e.chunk.js"
   ]
 }
